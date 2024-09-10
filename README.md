@@ -2,7 +2,7 @@
 
 [![Alt text](assets/intro.png "LLamaStack")](https://llamastack.ruv.io/?login=demo)
 
-LlamaStack is a cutting-edge AI platform developed by Meta, offering a comprehensive ecosystem for building and deploying sophisticated AI applications using Llama 3.1 models. It features advanced language models available in 8B, 70B, and 405B parameter versions, supporting multiple languages and boasting a 128K token context length.
+LlamaStack is a cutting-edge AI platform developed by rUv and built on Llama Stack Apps by Meta, offering a comprehensive ecosystem for building and deploying sophisticated AI applications using Llama 3.1 models. It features advanced language models available in 8B, 70B, and 405B parameter versions, supporting multiple languages and boasting a 128K token context length.
 
 The platform includes a standardized API, safety mechanisms like Llama Guard 3 and Prompt Guard, and powerful agentic capabilities for multi-step reasoning and autonomous decision-making.
 
