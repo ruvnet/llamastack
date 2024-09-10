@@ -17,13 +17,106 @@ pass = password
 
 ## Key Features
 
+LlamaStack is a comprehensive AI platform developed by rUv, designed to facilitate the creation and deployment of sophisticated AI applications using **Llama 3.1** models. 
+
+Here's an overview of its key features:
+
+---
+
+### 🌟 **Advanced Language Models:**
+
+- Available in **8B**, **70B**, and **405B** parameter versions
+- Support for **multiple languages**
+- **128K** token context length for handling complex tasks
+
+---
+
+### 🤖 **Agentic Capabilities:**
+
+- Multi-step reasoning
+- Autonomous decision-making
+- Customizable agent creation and management
+
+---
+
+### 🔌 **API and Integration:**
+
+- Standardized API for easy integration
+- Support for custom tools and extensions
+- **Batch processing** capabilities
+
+---
+
+### 🔐 **Safety Mechanisms:**
+
+- **Llama Guard 3** for enhanced security
+- **Prompt Guard** to ensure safe and appropriate responses
+
+---
+
+### 🛠️ **Development Tools:**
+
 - AI-powered code analysis and suggestions
-- Real-time collaboration tools
-- Dynamic leaderboards and skill assessments
+- Real-time collaboration features
 - Integrated development environment
-- Chat moderation with Llama Guard
-- Custom tools for enhanced functionality
-- Agentic system operations
+
+---
+
+### 📊 **Analytics and Monitoring:**
+
+- Performance metrics and visualizations
+- Request volume trends
+- Error rate analysis and anomaly detection
+
+---
+
+### ⚙️ **Automation:**
+
+- Workflow designer for creating complex automation processes
+- Support for various trigger types and action nodes
+- Data flow connectors for integrating with external systems
+
+---
+
+### 🧩 **Customization and Flexibility:**
+
+- Support for **zero-shot learning**
+- Ability to create custom dashboards and alerts
+- Extensible architecture for adding new features and integrations
+
+---
+
+### 🔒 **Security and Access Control:**
+
+- User role management
+- API key management
+- Audit logs for tracking system activities
+
+---
+
+### 🚀 **Resource Optimization:**
+
+- Automatic scaling suggestions
+- Cost analysis and projection tools
+- Performance optimization recommendations
+
+---
+
+### 📚 **Documentation and Support:**
+
+- Comprehensive documentation for developers
+- Step-by-step guides for getting started
+- Community engagement for knowledge sharing
+
+---
+
+### 🎯 **Platform Vision**
+
+LlamaStack aims to provide a powerful, flexible, and user-friendly platform for developers to create a wide range of AI applications, from intelligent chatbots and workflow assistants to coding aids and database interaction tools. 
+
+By offering **open-source implementations** and encouraging community involvement, Meta fosters innovation while promoting **responsible AI development**.
+
+This system is designed to cater to both **beginners** and **advanced users**, offering a scalable solution for various AI application needs across industries.
 
 ## Setup
 
